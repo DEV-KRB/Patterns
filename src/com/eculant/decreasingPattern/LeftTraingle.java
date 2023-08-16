@@ -1,6 +1,6 @@
 package com.eculant.decreasingPattern;
 
-public class RightSidedTraingle {
+public class LeftTraingle {
 
 	public static void main(String[] args) {
 		
