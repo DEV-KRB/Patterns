@@ -1,6 +1,6 @@
 package com.eculant.increasingPatterns;
 
-public class Righttraingle {
+public class RightTraingle {
 
 	public static void main(String[] args) {
 		
