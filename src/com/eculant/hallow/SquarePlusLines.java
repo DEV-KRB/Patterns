@@ -17,7 +17,7 @@ public class SquarePlusLines {
 			}
 			System.out.println();
 		}
-
+		
 	}
 
 }

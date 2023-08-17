@@ -1,4 +1,4 @@
-package com.eculant.increasingPatterns;
+package com.eculant.shapes;
 
 public class Square {
 
