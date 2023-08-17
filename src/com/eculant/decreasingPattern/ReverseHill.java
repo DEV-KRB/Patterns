@@ -1,6 +1,6 @@
 package com.eculant.decreasingPattern;
 
-public class DecreasingHill {
+public class ReverseHill {
 	
 	public static void main(String[] args) {
 		
